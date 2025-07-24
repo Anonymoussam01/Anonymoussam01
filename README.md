@@ -1,6 +1,5 @@
 ### Hi there, I'm Sameer Mansoori 👋
-
-🎓 PhD Scholar | 💊 Pharmacy Enthusiast | 💻 Learning Python | 🇮🇳 India
+ | 💊 Pharmacy Enthusiast | 💻 Learning Python | 🇮🇳 India
 
 ---
 
